@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
 
 import Form from "./Form/Form";
-import Users from "./Components/Users/Users";
+import Users from './Components/Users/Users';
 import {userService} from "./services/user.service";
 
 const App = () => {
